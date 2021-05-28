@@ -12,7 +12,7 @@
 #### #Arduino's Digital pins are connected to the Bread board(LED's as well as resistors).
 #### #Arduino's GND is connected to the Breadboard .
 #### #Arduino's power pin and GND is Connected to the VCC and GND of the Ultrasonic sensor.
-#### #Ultrasonic's trig and echo is connected to the didgital pins of the Arduino board.
+#### #Ultrasonic's trig and echo is connected to the digital pins of the Arduino board.
 #### #The Arduino board is connected to the laptop's port through usb to provide it supply.
 ##### #For the clear pic of the diagram: https://github.com/shubh0811/LED-DISTANCE-INDICATOR/blob/master/Diagram.jpg
                                                                                                                           
